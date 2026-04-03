@@ -1,0 +1,30 @@
+-title: Chip8 Esiee
+author : 
+   name: Lebarque Lohan
+dateFormat: d/M/y
+
+#git: #df884e
+#bash: #
+
+#APP: #02c50f
+#PRE: #c53c02
+03/04/2026: : Faire la configuration de Git sécurisé
+- [x] Génération des clés ssh (ssh-keygen)
+- [x] Enregistrement de la clé publique dans GitHub
+
+03/04/2026: : Automatiser la création d'éléments avec Bash
+- [x] Faire un fichier init.sh
+- [x] Changer les permissions … du fichier init.sh(u+x)
+- [x] Ecrire une fonction create_nollerate pour crée un squeltte d'architecture
+
+# APP #APP
+3/04/2026: 1pm - 4pm Implémenter la classe chip8 et ses dépendances
+- [x] Une modélisation de la class chip8 avec plantUML (extension VScode)
+- [x] Faire une première implémentation de la classe chip8
+- [x] Créer une méthode load_rom
+
+# PRE #PRE
+3/04/2026 1pm - 4pm: Impémenter la classe Software 
+- [x] Implémenter la classe Software et créer une unique méthode create (static)
+- [x] Créer le fichier test.ch8
+- [x] Installer l'extension HexEditor
